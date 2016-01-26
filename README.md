@@ -1,0 +1,1 @@
+# maven-jar-project-example
